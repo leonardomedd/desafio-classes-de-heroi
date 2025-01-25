@@ -1,8 +1,8 @@
-# Desafio Classe de Herói
+# Desafio Classe de Herói 🦸‍♂️
 
-Este projeto foi desenvolvido como parte do Bootcamp GFT Start #6 - Lógica de Programação, oferecido pela Digital Innovation One (DIO). O desafio foi proposto pelo professor Felipe Aguiar e consiste na criação de uma classe que representa um herói, permitindo que o herói realize ataques diferentes conforme seu tipo.
+Este projeto foi desenvolvido como parte do **Bootcamp GFT Start #6 - Lógica de Programação**, oferecido pela **Digital Innovation One (DIO)**. O desafio foi proposto pelo professor **Felipe Aguiar** e consiste na criação de uma classe que representa um herói, permitindo que o herói realize ataques diferentes conforme seu tipo.
 
-### Descrição do Projeto
+### Descrição do Projeto 📜
 
 O projeto consiste em uma classe `Heroi` com as seguintes propriedades:
 
@@ -19,17 +19,17 @@ Foi implementado um método `atacar`, que exibe uma mensagem indicando o tipo de
 
 Por exemplo, ao invocar o método `atacar()` para um herói do tipo **mago**, a mensagem exibida será: "O mago Dimagia atacou usando magia".
 
-### Tecnologias Usadas
+### Tecnologias Usadas 💻
 
 - JavaScript
 - Conceitos de Programação Orientada a Objetos (POO)
 - Git e GitHub para controle de versão
 
-### Funcionalidade
+### Funcionalidade ⚙️
 
 O código permite criar diferentes tipos de heróis e invocar o método `atacar()` para exibir qual tipo de ataque cada herói irá realizar, com base no seu tipo. 
 
-### Contatos
+### Contatos 📱
 
 - **GitHub**: [leonardomedd](https://github.com/leonardomedd)
 - **LinkedIn**: [Leonardo Medeiros de Almeida](https://www.linkedin.com/in/leonardomedeirosalmeida/)
